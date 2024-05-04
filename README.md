@@ -4,4 +4,6 @@ In this project, the goal is to implement a robotic navigation system using the 
 
 
 ## Simulation: 
-https://drive.google.com/file/d/1yMHEHZEhygTrKuI-Am1cAcJkUc5QfLFy/view?usp=sharing
+[![Aruco_maker and Logical_camera_navigation](https://drive.google.com/file/d/1yMHEHZEhygTrKuI-Am1cAcJkUc5QfLFy/view?usp=sharing)](https://drive.google.com/file/d/1yMHEHZEhygTrKuI-Am1cAcJkUc5QfLFy/view?usp=sharing)
+
+
